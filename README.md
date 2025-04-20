@@ -2,9 +2,8 @@
 
 Honours Bachelor of Science in Computer Science  
 Wilfrid Laurier University | Minor in User Experience Design | Concentration in Big Data  
-Expected Graduation: 2025
 
-Aspiring data analyst with a multidisciplinary background in software development, user-centered design, and large-scale data processing. Experienced in building interactive dashboards, conducting statistical analyses, and deriving actionable insights from complex datasets.
+Aspiring developer and analyst with a multidisciplinary background in software development, user-centered design, and large-scale data processing. Experienced in building interactive dashboards, conducting statistical analyses, and deriving actionable insights from complex datasets.
 
 ## Core Competencies
 

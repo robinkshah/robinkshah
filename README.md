@@ -13,13 +13,6 @@ Aspiring developer and analyst with a multidisciplinary background in software d
 - **Cloud & Tools:** AWS, Git, Jupyter, Render, Google Colab  
 - **Project Management:** Agile, Scrum, Waterfall, JIRA, Microsoft Project
 
-## Notable Projects
-
-- **FIFA World Cup Dashboard:** Interactive visualization tool analyzing historical performance trends of winners and runner-ups using Plotly and Dash.  
-- **Employment Data Analysis (Canadian Census):** Provincial-level dashboard identifying key trends in essential services and engineering manpower using gender and occupational segmentation.  
-- **Brain Tumour Detection AI:** Developed an ensemble learning model (VGG16, ResNet50, InceptionV3, custom Keras CNN) to classify MRI scans with high accuracy.  
-- **IoT Security Research:** Published paper on TechRxiv detailing the implementation of lightweight AES cryptography in securing IoT endpoints and reducing cyber risk.
-
 ## Current Areas of Focus
 
 - Enhancing geospatial and time-series data interpretation  

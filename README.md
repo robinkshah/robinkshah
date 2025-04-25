@@ -13,16 +13,6 @@ Aspiring developer and analyst with a multidisciplinary background in software d
 - **Cloud & Tools:** AWS, Git, Jupyter, Render, Google Colab  
 - **Project Management:** Agile, Scrum, Waterfall, JIRA, Microsoft Project
 
-## Current Areas of Focus
-
-- Enhancing geospatial and time-series data interpretation  
-- Developing full-stack dashboards and interactive tools using Dash, Plotly, and Flask  
-- Enhancing geospatial and time-series data interpretation for predictive modeling  
-- Building scalable backend systems and APIs to support data-driven applications  
-- Exploring the intersection of cybersecurity and software architecture in IoT contexts  
-- Preparing for roles in data analysis, research, and technical product development  
-- Contributing to open-source projects focused on analytics and developer tools
-
 ## Contact Information
 
 - **GitHub:** [github.com/robinkshah](https://github.com/robinkshah)  
